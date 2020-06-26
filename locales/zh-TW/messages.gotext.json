@@ -57,7 +57,7 @@
         {
             "id": "You must use the 64-bit version of WireGuard on this computer.",
             "message": "You must use the 64-bit version of WireGuard on this computer.",
-            "translation": ""
+            "translation": "你必須在此電腦上使用 64-bit 版本的 WireGuard"
         },
         {
             "id": "Unable to open current process token: {Err}",
@@ -137,7 +137,7 @@
         {
             "id": "{Days} day(s)",
             "message": "{Days} day(s)",
-            "translation": "",
+            "translation": "{Days} 天",
             "placeholders": [
                 {
                     "id": "Days",
@@ -335,7 +335,7 @@
         {
             "id": "Invalid MTU",
             "message": "Invalid MTU",
-            "translation": ""
+            "translation": "無效的 MTU"
         },
         {
             "id": "Invalid port",
@@ -467,7 +467,7 @@
         {
             "id": "About WireGuard",
             "message": "About WireGuard",
-            "translation": ""
+            "translation": "關於 WireGuard"
         },
         {
             "id": "WireGuard logo image",
@@ -667,12 +667,12 @@
         {
             "id": "Create new tunnel",
             "message": "Create new tunnel",
-            "translation": ""
+            "translation": "建立新的 Tunnel"
         },
         {
             "id": "Edit tunnel",
             "message": "Edit tunnel",
-            "translation": ""
+            "translation": "編輯 Tunnel"
         },
         {
             "id": "&Name:",
@@ -702,7 +702,7 @@
         {
             "id": "&Save",
             "message": "&Save",
-            "translation": "儲存"
+            "translation": "&儲存"
         },
         {
             "id": "Cancel",
@@ -822,7 +822,7 @@
         {
             "id": "&Copy",
             "message": "&Copy",
-            "translation": ""
+            "translation": "&複製"
         },
         {
             "id": "Select &all",
@@ -857,7 +857,7 @@
         {
             "id": "&About WireGuard…",
             "message": "&About WireGuard…",
-            "translation": ""
+            "translation": "&關於 WireGuard…"
         },
         {
             "id": "Tunnel Error",
@@ -1057,7 +1057,7 @@
         {
             "id": "&Edit",
             "message": "&Edit",
-            "translation": "編輯"
+            "translation": "&編輯"
         },
         {
             "id": "Add &empty tunnel…",
