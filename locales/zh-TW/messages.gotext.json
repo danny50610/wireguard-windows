@@ -529,7 +529,7 @@
         {
             "id": "♥ &Donate!",
             "message": "♥ &Donate!",
-            "translation": "♥ &贊助!"
+            "translation": "♥ 贊助!(&D)"
         },
         {
             "id": "Status:",
@@ -702,7 +702,7 @@
         {
             "id": "&Save",
             "message": "&Save",
-            "translation": "&儲存"
+            "translation": "儲存(&S)"
         },
         {
             "id": "Cancel",
@@ -822,7 +822,7 @@
         {
             "id": "&Copy",
             "message": "&Copy",
-            "translation": "&複製"
+            "translation": "複製(&C)"
         },
         {
             "id": "Select &all",
@@ -857,7 +857,7 @@
         {
             "id": "&About WireGuard…",
             "message": "&About WireGuard…",
-            "translation": "&關於 WireGuard…"
+            "translation": "關於 WireGuard(&A)…"
         },
         {
             "id": "Tunnel Error",
@@ -1057,7 +1057,7 @@
         {
             "id": "&Edit",
             "message": "&Edit",
-            "translation": "&編輯"
+            "translation": "編輯(&E)"
         },
         {
             "id": "Add &empty tunnel…",
