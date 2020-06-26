@@ -967,7 +967,7 @@
         {
             "id": "Status: {StateText}",
             "message": "Status: {StateText}",
-            "translation": "狀態：{StatusText}",
+            "translation": "狀態：{StateText}",
             "placeholders": [
                 {
                     "id": "StateText",
@@ -1458,7 +1458,7 @@
         {
             "id": "http2: Framer {Fr}: read {Http2summarizeFramef}",
             "message": "http2: Framer {Fr}: read {Http2summarizeFramef}",
-            "translation": "HTTP/2：Framer {F}：讀取 {Http2summarizeFramefr}",
+            "translation": "HTTP/2：Framer {Fr}：讀取 {Http2summarizeFramef}",
             "placeholders": [
                 {
                     "id": "Fr",
